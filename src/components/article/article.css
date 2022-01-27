@@ -1,0 +1,9 @@
+.object{
+    background-color: chocolate;
+    width: 300px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 5px;
+    padding: 0 5%;
+}

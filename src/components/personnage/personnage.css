@@ -1,0 +1,13 @@
+.perso{
+    background-color: cadetblue;
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 30px;
+    padding-bottom: 10px;
+}
+
+.hide{
+    display: none;
+}
